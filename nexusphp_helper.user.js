@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         NexusPHP 自动魔力兑换 (精准避坑版)
+// @name         NexusPHP 自动魔力兑换
 // @namespace    http://tampermonkey.net/
-// @version      3.3
+// @version      3.4
 // @description  修复误判"慈善捐赠"为下载量的问题。智能识别最大值，魔力不足或无合适选项时自动停止。
 // @author       KK
 // @license      MIT
