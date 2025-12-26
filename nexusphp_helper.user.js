@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         NexusPHP 自动魔力兑换 (油猴菜单设置版)
+// @name         NexusPHP 自动魔力兑换
 // @namespace    http://tampermonkey.net/
-// @version      4.0
+// @version      4.1
 // @description  不显示页面UI，通过油猴菜单控制开关。自动兑换最大上传量，智能策略。
-// @author       Gemini
+// @author       KK
 // @match        *://*/mybonus.php*
 // @grant        GM_setValue
 // @grant        GM_getValue
